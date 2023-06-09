@@ -1,7 +1,7 @@
 # Data Analytics Portfolio by Frendredi Muliawan
 Hello there! My name is Frendredi Muliawan, just call me Fren
 Here is my Portfolio as a Data Analyst that I currently get from RevoU 
-
+To know better About me, you can connect to my [LinkedIn](https://www.linkedin.com/in/frendredi-muliawan/)
 The Portfolio regarding Data analystics using several tools such as Spreedsheet, SQL (Big Query), Phyton (Google Colab), Data Visualization (Looker &amp; Tableau)
 
 
